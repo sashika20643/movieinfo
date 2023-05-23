@@ -30,3 +30,5 @@ const Moviecontainer = ({movied}) => {
 }
 
 export default Moviecontainer
+
+
