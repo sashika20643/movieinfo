@@ -1,0 +1,16 @@
+.mcont{
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+    padding: 20px 30px;
+
+}
+
+.mimage{
+    width:100px ;
+}
+.row1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}

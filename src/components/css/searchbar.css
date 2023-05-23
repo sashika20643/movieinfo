@@ -1,0 +1,25 @@
+.search{
+width: 300px;
+padding: 10px 20px;
+background-color: transparent;
+color: white;
+border: 1px solid white;
+}
+
+.sbtn{
+    outline: 3px solid #C19600;
+    border-radius: 4%;
+    border: none;
+    background-color: transparent;
+    color: white;
+    padding: 10px 20px;
+    margin-left: 20px;
+
+}
+.sbtn:hover{
+background-color:#C19600 ;
+color: black;
+outline: none;
+transition: all;
+
+}
